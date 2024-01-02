@@ -1,7 +1,13 @@
-# library
+# Local Library Project
 
-Local Library Project
-Project Description
-Welcome to the Local Library project! In your neighborhood, a local library is being established to facilitate book lending and borrowing among community members. To efficiently organize this initiative, a dashboard is required. This dashboard will serve as a central hub to display information about available books, those currently borrowed, and other relevant statistics to enhance the overall program experience.
+## Overview
 
-While others are handling logistics and design, your role is crucial in developing the algorithms that power the functionality of the dashboard.
+Welcome to the Local Library project! This initiative aims to establish a neighborhood library for book lending and borrowing. Your role is to develop algorithms for a dashboard that will track book availability, borrowed books, and offer general program statistics.
+
+## Features
+
+- **Book Availability:** Track available books for lending.
+- **Borrowed Books:** Monitor books currently borrowed.
+- **General Statistics:** Provide program insights, such as total books and popular genres.
+
+
